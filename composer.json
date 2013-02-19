@@ -1,0 +1,16 @@
+{
+    "name": "voronenko/yii-constants",
+    "description": "Basic constants module",
+    "version":"1.0.0",
+    "type": "library",
+    "license": "MTI",
+    "require": {
+        "php": ">=5.1.0"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
+    }
+}
